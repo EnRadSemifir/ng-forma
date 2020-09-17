@@ -1,0 +1,16 @@
+{
+    "techs": [
+        {
+            "id": "1",
+            "name": "PostGre"
+        },
+        {
+            "id": "2",
+            "name": "ELK"
+        },
+        {
+            "id": "3",
+            "name": "MongoDb"
+        }
+    ]
+}
